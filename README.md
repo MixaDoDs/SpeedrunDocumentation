@@ -21,3 +21,5 @@ PS this shit broken af and the only game that kinda works seems to be fnaf2 lmao
 
 https://clickwiki.github.io/chowdren/platforms/#Windows
 https://clickwiki.github.io/mediawiki-archive/wiki/Chowdren/Platforms
+
+https://archive.org/details/MS_VisualStudioCommunity-2015
