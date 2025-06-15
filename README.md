@@ -2,7 +2,7 @@
 
 1. Install Clickteam 2.5
 
-2. Install/extract VCForPython27.msi + cmake-3.29.0-rc2-windows-x86_64 + python-2.7.18.amd64.msi + visual studio 2019 
+2. Install/extract VCForPython27.msi + cmake-3.29.0-rc2-windows-x86_64 + python-2.7.18.amd64.msi + visual studio 2015 
 
 3. Fucking get this shit off some random ass google drive https://drive.google.com/file/d/107HcGkjQ0g3op5cMfi9FnqImLGPhOneG/view?usp=sharing
 
